@@ -1,0 +1,3 @@
+# After_Effects_Scripts
+自己的一些AE脚本
+同上，不定期更新，
